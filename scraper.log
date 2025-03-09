@@ -1,0 +1,97 @@
+2025-03-09 12:33:21,455 - INFO - Starting scrape for https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:33:21,812 - INFO - Successfully scraped static content from https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:33:21,812 - INFO - ====== WebDriver manager ======
+2025-03-09 12:33:22,553 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:33:22,681 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:33:22,748 - INFO - There is no [win64] chromedriver "133.0.6943.141" for browser google-chrome "133.0.6943" in cache
+2025-03-09 12:33:22,748 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:33:22,980 - INFO - WebDriver version 133.0.6943.141 selected
+2025-03-09 12:33:22,981 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.141/win32/chromedriver-win32.zip
+2025-03-09 12:33:22,982 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.141/win32/chromedriver-win32.zip
+2025-03-09 12:33:23,096 - INFO - Driver downloading response is 200
+2025-03-09 12:33:23,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:33:24,422 - INFO - Driver has been saved in cache [C:\Users\lezhu\.wdm\drivers\chromedriver\win64\133.0.6943.141]
+2025-03-09 12:33:33,614 - INFO - Successfully scraped dynamic content from https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:33:33,614 - WARNING - No data retrieved from the site.
+2025-03-09 12:39:13,087 - INFO - Starting scrape for https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:39:13,439 - INFO - Successfully scraped static content from https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:39:13,439 - INFO - ====== WebDriver manager ======
+2025-03-09 12:39:14,176 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:39:14,471 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:39:14,680 - INFO - Driver [C:\Users\lezhu\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-09 12:39:18,880 - ERROR - Error during dynamic scraping: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="login"]"}
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00B90B43+25139]
+	(No symbol) [0x00B213F4]
+	(No symbol) [0x00A004E3]
+	(No symbol) [0x00A483D7]
+	(No symbol) [0x00A4872B]
+	(No symbol) [0x00A91002]
+	(No symbol) [0x00A6D014]
+	(No symbol) [0x00A8E778]
+	(No symbol) [0x00A6CDC6]
+	(No symbol) [0x00A3BDE9]
+	(No symbol) [0x00A3D124]
+	GetHandleVerifier [0x00E94373+3185251]
+	GetHandleVerifier [0x00EB291A+3309578]
+	GetHandleVerifier [0x00EACF42+3286578]
+	GetHandleVerifier [0x00C27AE0+643536]
+	(No symbol) [0x00B2A20D]
+	(No symbol) [0x00B270B8]
+	(No symbol) [0x00B27257]
+	(No symbol) [0x00B19E00]
+	BaseThreadInitThunk [0x769DFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773382AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7733827E+238]
+
+2025-03-09 12:39:18,880 - WARNING - No data retrieved from the site.
+2025-03-09 12:45:22,928 - INFO - Starting scrape for https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:45:23,523 - INFO - Successfully scraped static content from https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:45:23,524 - INFO - ====== WebDriver manager ======
+2025-03-09 12:45:24,257 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:45:24,411 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:45:24,787 - INFO - Driver [C:\Users\lezhu\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-09 12:45:28,375 - ERROR - Error during dynamic scraping: name 'lukezhu' is not defined
+2025-03-09 12:45:28,375 - WARNING - No data retrieved from the site.
+2025-03-09 12:48:08,995 - INFO - Starting scrape for https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:48:09,128 - INFO - Successfully scraped static content from https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:48:09,128 - INFO - ====== WebDriver manager ======
+2025-03-09 12:48:09,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:48:09,919 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:48:09,987 - INFO - Driver [C:\Users\lezhu\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-09 12:48:13,740 - ERROR - Error during dynamic scraping: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.primary"}
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00F20B43+25139]
+	(No symbol) [0x00EB13F4]
+	(No symbol) [0x00D904E3]
+	(No symbol) [0x00DD83D7]
+	(No symbol) [0x00DD872B]
+	(No symbol) [0x00E21002]
+	(No symbol) [0x00DFD014]
+	(No symbol) [0x00E1E778]
+	(No symbol) [0x00DFCDC6]
+	(No symbol) [0x00DCBDE9]
+	(No symbol) [0x00DCD124]
+	GetHandleVerifier [0x01224373+3185251]
+	GetHandleVerifier [0x0124291A+3309578]
+	GetHandleVerifier [0x0123CF42+3286578]
+	GetHandleVerifier [0x00FB7AE0+643536]
+	(No symbol) [0x00EBA20D]
+	(No symbol) [0x00EB70B8]
+	(No symbol) [0x00EB7257]
+	(No symbol) [0x00EA9E00]
+	BaseThreadInitThunk [0x769DFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773382AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7733827E+238]
+
+2025-03-09 12:48:13,741 - WARNING - No data retrieved from the site.
+2025-03-09 12:50:13,577 - INFO - Starting scrape for https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:50:13,709 - INFO - Successfully scraped static content from https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:50:13,710 - INFO - ====== WebDriver manager ======
+2025-03-09 12:50:14,426 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:50:14,496 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 12:50:14,557 - INFO - Driver [C:\Users\lezhu\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-09 12:50:25,741 - INFO - Successfully scraped dynamic content from https://fpcitywide25-myexperience.personatech.com/selection/a50d6c24-545b-4327-a8b2-e9607e621db9
+2025-03-09 12:50:25,748 - INFO - Data saved to scraped_data.csv
